@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "161664252137",
+    "project_id": "filmoteca-db732",
+    "storage_bucket": "filmoteca-db732.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161664252137:android:53dbd237eca7440ae2d878",
+        "android_client_info": {
+          "package_name": "com.campusdigitalfp.filmotecav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161664252137-fcp8gi2u6gh7784t15d4qoj9l3oa9sh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campusdigitalfp.filmotecav2",
+            "certificate_hash": "fb29fa0a7822b093fa4eb43b75cbce9f6a6a2427"
+          }
+        },
+        {
+          "client_id": "161664252137-th3l4nkcsclfbrou01rravto05ltjsk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATE29ztvoMheGO6jvbMp0y5w7ytD4ZlGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161664252137-th3l4nkcsclfbrou01rravto05ltjsk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
